@@ -1,0 +1,7 @@
+{
+    "telegram":{
+        "token":"<token>",
+        "chat_id":["<chat_id>"],
+        "top_deals_url": "https://www.amazon.in/Top-Deals/s?k=Top+Deals"
+    }
+}
